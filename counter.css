@@ -1,0 +1,62 @@
+body{
+  height:100vh;
+  background-color:#3a1367;
+}
+h1{
+  text-align:center;
+  font-family:"Segoe UI", sans-serif;
+  color:#a065e3;
+  font-size:50px;
+}
+.btn{
+  display:flex;
+  justify-content:center;
+}
+.click{
+  width:204px;
+  height:50px;
+  font-family:"Segoe UI",sans-serif;
+  font-weight:bold;
+  color:#3a1367;
+  border-color:#a065e3;
+  background-color:white;
+  cursor:pointer;
+}
+.counter{
+  display:flex;
+  justify-content:center;
+}
+.number{
+  width:200px;
+  height:50px;
+  border:2px solid #a065e3;
+  background-color:white;
+  text-align:center;
+  font-weight:bold;
+  color:#3a1367;
+  font-family:"Segoe Ui",sans-serif;
+}
+.reset{
+  display:flex;
+  justify-content:center;
+}
+.rst{
+  width:204px;
+  height:50px;
+  border:2px solid #a065e3;
+  background-color:white;
+  text-align:center;
+  font-weight:bold;
+  color:#3a1367;
+  font-family:"Segoe Ui",sans-serif;
+  cursor:pointer;
+}
+small{
+  position:absolute;
+  bottom:0;
+  color:white;
+  font-style:italic;
+  font-size:13px;
+  font-family:"Segoe UI",sans-serif;
+  
+}
